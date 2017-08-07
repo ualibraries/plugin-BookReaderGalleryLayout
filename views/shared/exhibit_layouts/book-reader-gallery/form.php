@@ -27,6 +27,7 @@ $options = $block->getOptions();
             array(
                 'square_thumbnail' => __('Square Thumbnail'),
                 'thumbnail' => __('Thumbnail'),
+                'fullsize' => __('Full Size')
             ));
         ?>
     </div>
